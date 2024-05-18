@@ -1,5 +1,5 @@
 # Zomato-Restaurant-Clustering
-![image](https://github.com/rauman43/Zomato-Restaurant-Clustering/assets/149938342/0217c086-b508-422a-8307-619fb421b181)
+                 ![image](https://github.com/rauman43/Zomato-Restaurant-Clustering/assets/149938342/0217c086-b508-422a-8307-619fb421b181)
 
 
 
